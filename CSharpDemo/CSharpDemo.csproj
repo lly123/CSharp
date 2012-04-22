@@ -50,6 +50,7 @@
     <Compile Include="ParameterModifiers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RethrowException.cs" />
     <Compile Include="VerbatimString.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

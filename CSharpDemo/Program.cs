@@ -27,6 +27,9 @@ namespace CSharpDemo
             var arrayOperation = new ArrayOperation();
             arrayOperation.DoIt();
 
+            var rethrowException = new RethrowException();
+            rethrowException.DoIt();
+
             Console.In.ReadLine();
         }
     }
