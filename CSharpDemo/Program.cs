@@ -33,6 +33,9 @@ namespace CSharpDemo
             var finalization = new Finalization();
             finalization.DoIt();
 
+            var clonableObject = new ClonableObject();
+            clonableObject.DoIt();
+
             Console.In.ReadLine();
         }
     }
