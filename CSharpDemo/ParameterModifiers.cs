@@ -7,8 +7,16 @@ namespace CSharpDemo
 {
     class ParameterModifiers
     {
-        class Point
+        sealed class Point
         {
+            public static int Max;
+
+            static Point()
+            {
+                Max = 100;
+                Console.Out.WriteLine("Init static fields.");
+            }
+
             public int X { get; set; }
             public int Y { get; set; }
 

@@ -24,6 +24,9 @@ namespace CSharpDemo
             var parameterModifiers = new ParameterModifiers();
             parameterModifiers.DoIt();
 
+            var arrayOperation = new ArrayOperation();
+            arrayOperation.DoIt();
+
             Console.In.ReadLine();
         }
     }

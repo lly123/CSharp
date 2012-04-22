@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AnonymousClass.cs" />
+    <Compile Include="ArrayOperation.cs" />
     <Compile Include="ExplicitAndImplicitCast.cs" />
     <Compile Include="LazyLoading.cs" />
     <Compile Include="ParameterModifiers.cs" />
