@@ -1,0 +1,5 @@
+c:\users\lyli\documents\visual studio 2010\Projects\CSharpDemo\CSharpDemo\bin\Debug\CSharpDemo.exe
+c:\users\lyli\documents\visual studio 2010\Projects\CSharpDemo\CSharpDemo\bin\Debug\CSharpDemo.pdb
+c:\users\lyli\documents\visual studio 2010\Projects\CSharpDemo\CSharpDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lyli\documents\visual studio 2010\Projects\CSharpDemo\CSharpDemo\obj\x86\Debug\CSharpDemo.exe
+c:\users\lyli\documents\visual studio 2010\Projects\CSharpDemo\CSharpDemo\obj\x86\Debug\CSharpDemo.pdb
