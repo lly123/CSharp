@@ -46,6 +46,7 @@
     <Compile Include="AnonymousClass.cs" />
     <Compile Include="ArrayOperation.cs" />
     <Compile Include="ExplicitAndImplicitCast.cs" />
+    <Compile Include="Finalization.cs" />
     <Compile Include="LazyLoading.cs" />
     <Compile Include="ParameterModifiers.cs" />
     <Compile Include="Program.cs" />

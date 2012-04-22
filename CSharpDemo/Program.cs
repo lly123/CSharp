@@ -30,6 +30,9 @@ namespace CSharpDemo
             var rethrowException = new RethrowException();
             rethrowException.DoIt();
 
+            var finalization = new Finalization();
+            finalization.DoIt();
+
             Console.In.ReadLine();
         }
     }
