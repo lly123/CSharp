@@ -46,6 +46,7 @@
     <Compile Include="AnonymousClass.cs" />
     <Compile Include="ExplicitAndImplicitCast.cs" />
     <Compile Include="LazyLoading.cs" />
+    <Compile Include="ParameterModifiers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="VerbatimString.cs" />

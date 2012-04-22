@@ -3,3 +3,8 @@ c:\users\lyli\documents\visual studio 2010\Projects\CSharpDemo\CSharpDemo\bin\De
 c:\users\lyli\documents\visual studio 2010\Projects\CSharpDemo\CSharpDemo\obj\x86\Debug\ResolveAssemblyReference.cache
 c:\users\lyli\documents\visual studio 2010\Projects\CSharpDemo\CSharpDemo\obj\x86\Debug\CSharpDemo.exe
 c:\users\lyli\documents\visual studio 2010\Projects\CSharpDemo\CSharpDemo\obj\x86\Debug\CSharpDemo.pdb
+Z:\Documents\GitHub\CSharp\CSharpDemo\obj\x86\Debug\CSharpDemo.exe
+Z:\Documents\GitHub\CSharp\CSharpDemo\obj\x86\Debug\CSharpDemo.pdb
+Z:\Documents\GitHub\CSharp\CSharpDemo\bin\Debug\CSharpDemo.exe
+Z:\Documents\GitHub\CSharp\CSharpDemo\bin\Debug\CSharpDemo.pdb
+Z:\Documents\GitHub\CSharp\CSharpDemo\obj\x86\Debug\ResolveAssemblyReference.cache

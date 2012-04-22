@@ -21,6 +21,9 @@ namespace CSharpDemo
             var lazyLoading = new LazyLoading();
             lazyLoading.DoIt();
 
+            var parameterModifiers = new ParameterModifiers();
+            parameterModifiers.DoIt();
+
             Console.In.ReadLine();
         }
     }
