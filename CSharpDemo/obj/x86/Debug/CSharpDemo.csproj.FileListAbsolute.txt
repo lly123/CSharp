@@ -8,3 +8,7 @@ Z:\Documents\GitHub\CSharp\CSharpDemo\obj\x86\Debug\CSharpDemo.pdb
 Z:\Documents\GitHub\CSharp\CSharpDemo\bin\Debug\CSharpDemo.exe
 Z:\Documents\GitHub\CSharp\CSharpDemo\bin\Debug\CSharpDemo.pdb
 Z:\Documents\GitHub\CSharp\CSharpDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Documents\GitHub\CSharp\CSharpDemo\bin\Debug\Moq.dll
+Z:\Documents\GitHub\CSharp\CSharpDemo\bin\Debug\Moq.pdb
+Z:\Documents\GitHub\CSharp\CSharpDemo\bin\Debug\Moq.xml
+Z:\Documents\GitHub\CSharp\CSharpDemo\bin\Debug\CSharpDemo.exe.config

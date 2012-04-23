@@ -36,6 +36,9 @@ namespace CSharpDemo
             var clonableObject = new ClonableObject();
             clonableObject.DoIt();
 
+            var mockClass = new MockClass();
+            mockClass.DoIt();
+
             Console.In.ReadLine();
         }
     }

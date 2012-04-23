@@ -4,19 +4,43 @@
     <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ExplicitAndImplicitCast.cs" caret="308" fromTop="0" />
     <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:LazyLoading.cs" caret="711" fromTop="28" />
     <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:VerbatimString.cs" caret="564" fromTop="18" />
-    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:Program.cs" caret="287" fromTop="13" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:RethrowException.cs" caret="688" fromTop="22" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ArrayOperation.cs" caret="911" fromTop="19" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ParameterModifiers.cs" caret="152" fromTop="0" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:Program.cs" caret="1067" fromTop="25" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ClonableObject.cs" caret="290" fromTop="0" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:Finalization.cs" caret="892" fromTop="20" />
   </RecentFiles>
   <RecentEdits>
-    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:AnonymousClass.cs" caret="482" fromTop="9" />
-    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:AnonymousClass.cs" caret="640" fromTop="23" />
-    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ExplicitAndImplicitCast.cs" caret="821" fromTop="7" />
-    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ExplicitAndImplicitCast.cs" caret="940" fromTop="28" />
-    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ExplicitAndImplicitCast.cs" caret="317" fromTop="0" />
-    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:LazyLoading.cs" caret="117" fromTop="7" />
-    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:LazyLoading.cs" caret="716" fromTop="28" />
-    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:VerbatimString.cs" caret="117" fromTop="7" />
     <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:VerbatimString.cs" caret="564" fromTop="18" />
     <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:Program.cs" caret="117" fromTop="7" />
-    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:Program.cs" caret="641" fromTop="25" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:Program.cs" caret="1123" fromTop="25" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:Program.cs" caret="202" fromTop="10" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ParameterModifiers.cs" caret="1042" fromTop="11" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ParameterModifiers.cs" caret="586" fromTop="12" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ParameterModifiers.cs" caret="1388" fromTop="21" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ParameterModifiers.cs" caret="875" fromTop="17" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ArrayOperation.cs" caret="1032" fromTop="15" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ParameterModifiers.cs" caret="360" fromTop="16" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ParameterModifiers.cs" caret="169" fromTop="9" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ArrayOperation.cs" caret="216" fromTop="11" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ArrayOperation.cs" caret="411" fromTop="21" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ArrayOperation.cs" caret="920" fromTop="19" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:RethrowException.cs" caret="430" fromTop="17" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:RethrowException.cs" caret="786" fromTop="22" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:RethrowException.cs" caret="697" fromTop="22" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:Finalization.cs" caret="205" fromTop="7" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:Finalization.cs" caret="649" fromTop="20" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:Finalization.cs" caret="275" fromTop="5" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:Finalization.cs" caret="358" fromTop="10" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:Finalization.cs" caret="901" fromTop="20" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ClonableObject.cs" caret="393" fromTop="15" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:Program.cs" caret="1067" fromTop="25" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ClonableObject.cs" caret="1589" fromTop="26" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ClonableObject.cs" caret="1407" fromTop="18" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ClonableObject.cs" caret="185" fromTop="9" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ClonableObject.cs" caret="509" fromTop="14" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ClonableObject.cs" caret="1091" fromTop="18" />
+    <File id="D3B30BE0-0D2D-4287-99A8-6A340291A713/f:ClonableObject.cs" caret="726" fromTop="6" />
   </RecentEdits>
 </RecentFiles>

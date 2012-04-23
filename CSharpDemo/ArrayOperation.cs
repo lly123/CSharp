@@ -40,6 +40,19 @@ namespace CSharpDemo
 
             var d = new Derived();
             Console.Out.WriteLine("Value: " + d.Value);
+
+            var list = new List<string>
+                           {
+                               "ghi",
+                               "abc",
+                               "rhj"
+                           };
+            list.Sort((s, s1) => string.Compare(s, s1) * -1);
+
+            foreach (var i in list)
+            {
+                Console.Out.WriteLine("> " + i);
+            }
         }
     }
 }
