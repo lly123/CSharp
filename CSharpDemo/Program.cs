@@ -39,6 +39,9 @@ namespace CSharpDemo
             var mockClass = new MockClass();
             mockClass.DoIt();
 
+            var useThread = new UseThread();
+            useThread.DoIt();
+
             Console.In.ReadLine();
         }
     }

@@ -59,6 +59,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RethrowException.cs" />
+    <Compile Include="UseThread.cs" />
     <Compile Include="VerbatimString.cs" />
   </ItemGroup>
   <ItemGroup>
