@@ -42,6 +42,9 @@ namespace CSharpDemo
             var useThread = new UseThread();
             useThread.DoIt();
 
+            var usingRegex = new UsingRegex();
+            usingRegex.DoIt();
+
             Console.In.ReadLine();
         }
     }
