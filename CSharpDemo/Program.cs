@@ -45,6 +45,9 @@ namespace CSharpDemo
             var usingRegex = new UsingRegex();
             usingRegex.DoIt();
 
+            var dbConnection = new DbConnection();
+            dbConnection.DoIt();
+
             Console.In.ReadLine();
         }
     }

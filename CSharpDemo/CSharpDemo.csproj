@@ -51,6 +51,7 @@
     <Compile Include="AnonymousClass.cs" />
     <Compile Include="ArrayOperation.cs" />
     <Compile Include="ClonableObject.cs" />
+    <Compile Include="DBConnection.cs" />
     <Compile Include="ExplicitAndImplicitCast.cs" />
     <Compile Include="Finalization.cs" />
     <Compile Include="LazyLoading.cs" />
