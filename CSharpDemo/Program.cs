@@ -5,6 +5,16 @@ using System.Text;
 
 namespace CSharpDemo
 {
+    interface IUnit
+    {
+        int Quantity { get; set; }
+    }
+
+    class Length : IUnit
+    {
+        public int Quantity { get; set; }
+    }
+
     class Program
     {
         static void Main(string[] args)

@@ -39,9 +39,6 @@ namespace CSharpDemo
         {
             Console.Out.WriteLine("** " + GetAppName());
 
-//            DbProviderFactory dbf = DbProviderFactories.GetFactory("MySql.Data.MySqlClient");
-//            Console.Out.WriteLine(">> " + dbf);
-
             DbDo(SimpleQuery);
 
             DbDo((conn) =>
@@ -60,6 +57,18 @@ namespace CSharpDemo
                              transaction.Rollback();
                          }
                      });
+
+            using(var myDbEntities = new MyDBEntities())
+            {
+                myDbEntities.Person.AddObject(new Person()
+                                                  {
+                                                      Id = 2,
+                                                      Name = "KaoYa",
+                                                      Age = 35,
+                                                      Description = "Desc"
+                                                  });
+                myDbEntities.SaveChanges();
+            }
         }
 
         private static string GetAppName()
